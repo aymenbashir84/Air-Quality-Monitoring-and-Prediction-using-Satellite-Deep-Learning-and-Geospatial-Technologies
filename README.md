@@ -1,0 +1,1 @@
+# Air-Quality-Monitoring-and-Prediction-using-Satellite-Deep-Learning-and-Geospatial-Technologies![204495010-00e3dabd-6cd0-4c4d-87b9-470f6cba34ce](https://user-images.githubusercontent.com/81523866/206890465-ad491efb-107a-450f-ab20-ef45f3d03e28.png)
